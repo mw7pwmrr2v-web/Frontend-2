@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Desktop/assets 5"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5511
+	}
+}
